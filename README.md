@@ -68,7 +68,7 @@ This project documents a hands-on cybersecurity alert triage and incident respon
 | Mean Dwell Time         | 9 minutes |
 
 📷 Pie Charts:  
-![Pie Chart](screenshots/final_results_piechart.png)
+![Pie Chart](screenshots/final_result_piechart.png)
 
 ---
 
